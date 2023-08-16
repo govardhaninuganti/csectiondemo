@@ -3,6 +3,8 @@ package com.lbrce.demo;
 public class demotest {
 	int n=12;
 	if(n%2==0)
-		system.out.println("even");
+		System.out.println("even");
+	else
+		System.out.println("odd");
 
 }
